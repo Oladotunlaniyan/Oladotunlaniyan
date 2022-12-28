@@ -1,4 +1,4 @@
-<h1 align="center">Hey there I'm Qawi 👋🏿👋🏿👋🏿 a.k.a Cypher a.k.a Devdotun</h1>
+<h1 align="center">Hey there I'm Qawi 👋🏿👋🏿👋🏿</h1>
 <h2> About Me</h2>
 <ul>
 <li>🐱‍👤I'm a teen Front-end developer from Nigeria</li>
