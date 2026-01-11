@@ -4,9 +4,7 @@
 I'm passionate about creating intuitive user interfaces and sharing knowledge with the developer community. Currently focused on AI, Web3 & Privacy and development, exploring ways to make development more accessible to others.
 
 ## About Me
-- 🐱‍👤 I'm a teen Front-end developer from Nigeria
 - 🔭 I'm currently working on developing my skills further and connecting with other devs
-- 🌱 I'm currently learning JavaScript and its frameworks
 - 🎮 I love playing mobile games and watching animes
 - 📫 You can connect with me on Twitter, LinkedIn and here on GitHub
 
