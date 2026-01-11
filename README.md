@@ -1,4 +1,5 @@
 # Hey there I'm Qawi 👋🏿👋🏿👋🏿
+### Frontend Engineer & Aspiring Developer Advocate | Building accessible web experiences from Nigeria 🇳🇬
 
 ## About Me
 - 🐱‍👤 I'm a teen Front-end developer from Nigeria
